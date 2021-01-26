@@ -1,4 +1,4 @@
-## Hi there This is Sunny-son Github 👋
+## Hi there This is Sunny-son github 👋
 
 ### Interest
 - Skills:smirk_cat: : Java, Spring, JPA(Hibernate), Python(PS)
