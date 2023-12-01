@@ -1,7 +1,9 @@
 ## Hi there This is Sunny-son github 👋
 
 ### Interest
-- Skills:smirk_cat: : Java, Spring, JPA(Hibernate), kotlin, Python(PS)
+- Skills:smirk_cat: :
+  - Backend: Java, Spring, JPA(Hibernate), kotlin
+  - Frontend: Javascript, Typescript, React.js
 - Develop Culture:palm_tree: : Agile, TDD, Code Review, Pair Programming
 
 
