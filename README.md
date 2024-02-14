@@ -1,10 +1,10 @@
 ## Hi there This is Sunny-son github 👋
 
 ### Interest
-- Skills:smirk_cat: :
+- Skills:
   - Backend: Java, Spring, JPA(Hibernate), kotlin
-  - Frontend: Javascript, Typescript, React.js
-- Develop Culture:palm_tree: : Agile, TDD, Code Review, Pair Programming
+  - Frontend: Javascript, Typescript, React.js, Next.js
+- Develop Culture: Agile, TDD, Code Review, Pair Programming
 
 
 [![sunny's github stats](https://github-readme-stats.vercel.app/api?username=kses1010)](https://github.com/anuraghazra/github-readme-stats)
